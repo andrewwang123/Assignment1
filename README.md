@@ -1,4 +1,4 @@
-# Pokemon Information App
+# Pokemon Information App - Andrew Wang
 
 # Execution
 
